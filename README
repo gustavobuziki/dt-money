@@ -5,16 +5,22 @@
 Trata-se de uma aplicação para controlar o dinheiro total, suas entradas e saídas,
 podendo cadastrar suas transações de acordo com a categoria.
 
-- Um pouco do que foi usado neste projeto:
+-- Criado com React a partir do vite.
 
-React com Typescript
-Styled Components
-Axios
-MirageJS
-React Modal
+-- O que foi usado:
 
-- Para dar uma conferida nesse projeto:
+* React com Typescript
+* Styled Components
+* Axios
+* MirageJS
+* React Modal
 
-É possivel rodar ele dando um '.' no repositório do mesmo, ou,
-clonar ele em sua máquina, e após rodar 'yarn' para baixar as dependências, rode 'yarn start' e abra
-na porta que ele foi iniciado.
+-- Para apenas conferir o código do projeto:
+
+* No repositório, basta apertar a tecla "." para abrir a IDE do VSCode no navegador. 
+
+-- Para rodar este projeto:
+
+* Copie a URL do projeto para clonar em sua máquina ("git clone {URL DO PROJETO"}.
+* Abra o mesmo em sua IDE e rode no terminal "yarn" depois "yarn start".
+* Por fim abra a porta em que foi iniciado o projeto.
