@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import { Dashboard, Header, NewTransactionModal } from "../components";
-import { TransactionsProvider } from "../contexts/transactions-context";
+import { Dashboard, Header, NewTransactionModal } from "~/components";
+import { TransactionsProvider } from "~/contexts/transactions-context";
 
 const Home = () => {
   const [newTransactionModalIsOpen, setNewTransactionModalIsOpen] =

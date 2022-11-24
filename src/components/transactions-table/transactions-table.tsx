@@ -1,4 +1,4 @@
-import { useTransactionsCxt } from "../../contexts/";
+import { useTransactionsCxt } from "~/contexts";
 
 import * as s from "./styled-transactions-table";
 

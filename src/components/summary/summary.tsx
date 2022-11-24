@@ -1,5 +1,5 @@
-import { Entradas, Saidas, Total } from "../../assets";
-import { useTransactionsCxt } from "../../contexts/";
+import { Entradas, Saidas, Total } from "~/assets";
+import { useTransactionsCxt } from "~/contexts";
 
 import * as s from "./styled-summary";
 

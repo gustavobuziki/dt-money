@@ -6,9 +6,9 @@ import {
   useState,
 } from "react";
 
-import { api } from "../services/api";
+import { api } from "~/services/api";
 
-import { TCreateNewTransaction, TTransactions } from "../utils/types";
+import { TCreateNewTransaction, TTransactions } from "~/utils/types";
 
 interface ITransactionsCxtProps {
   children: ReactNode;

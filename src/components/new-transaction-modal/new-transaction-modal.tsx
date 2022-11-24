@@ -1,8 +1,8 @@
 import { FormEvent, useState } from "react";
 import Modal from "react-modal";
 
-import { Entradas, Fechar, Saidas } from "../../assets";
-import { useTransactionsCxt } from "../../contexts/transactions-context";
+import { Entradas, Fechar, Saidas } from "~/assets";
+import { useTransactionsCxt } from "~/contexts/transactions-context";
 
 import * as s from "./styled-new-transaction-modal";
 
